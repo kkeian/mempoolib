@@ -1,5 +1,5 @@
 # mempoolib
-A library for using memory pools that you control.
+A library for using memory pools.
 
 ### Building
 Release (default)
